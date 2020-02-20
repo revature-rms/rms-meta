@@ -119,3 +119,14 @@ gradlew.bat
 # Ignore Checkstyle and Google formatter JARs
 checkstyle-8.25-all.jar
 google-java-format-1.7-all-deps.jar
+
+# Repositories
+rms-ui/
+rms-config-service/
+rms-discovery-service/
+rms-gateway-service/
+rms-campus-service/
+rms-employee-service/
+rms-work-order-service/
+rms-mail-service/
+rms-batch-service/
