@@ -117,5 +117,5 @@ gradlew.bat
 *.gradle
 
 # Ignore Checkstyle and Google formatter JARs
-!google-java-format-1.7-all-deps.jar
-!checkstyle-8.25-all.jar
+checkstyle-8.25-all.jar
+google-java-format-1.7-all-deps.jar
