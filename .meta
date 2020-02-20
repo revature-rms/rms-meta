@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "rms-ui": "https://github.com/revaturelabs/rms-ui",
+    "rms-config-service": "https://github.com/revaturelabs/rms-config-service",
+    "rms-discovery-service": "https://github.com/revaturelabs/rms-discovery-service",
+    "rms-gateway-service": "https://github.com/revaturelabs/rms-gateway-service",
+    "rms-campus-service": "https://github.com/revaturelabs/rms-campus-service",
+    "rms-employee-service": "https://github.com/revaturelabs/rms-employee-service",
+    "rms-mail-service": "https://github.com/revaturelabs/rms-mail-service",
+    "rms-work-order-service": "https://github.com/revaturelabs/rms-work-order-service",
+    "rms-batch-service": "https://github.com/revaturelabs/rms-batch-service",
+    }
+}
