@@ -1,13 +1,13 @@
 {
   "projects": {
-    "rms-ui": "https://github.com/revaturelabs/rms-ui",
-    "rms-config-service": "https://github.com/revaturelabs/rms-config-service",
-    "rms-discovery-service": "https://github.com/revaturelabs/rms-discovery-service",
-    "rms-gateway-service": "https://github.com/revaturelabs/rms-gateway-service",
-    "rms-campus-service": "https://github.com/revaturelabs/rms-campus-service",
-    "rms-employee-service": "https://github.com/revaturelabs/rms-employee-service",
-    "rms-mail-service": "https://github.com/revaturelabs/rms-mail-service",
-    "rms-work-order-service": "https://github.com/revaturelabs/rms-work-order-service",
-    "rms-batch-service": "https://github.com/revaturelabs/rms-batch-service"
+    "rms-ui": "https://github.com/rms-191216-java-usf/rms-ui",
+    "rms-config-service": "https://github.com/rms-191216-java-usf/rms-config-service",
+    "rms-discovery-service": "https://github.com/rms-191216-java-usf/rms-discovery-service",
+    "rms-gateway-service": "https://github.com/rms-191216-java-usf/rms-gateway-service",
+    "rms-campus-service": "https://github.com/rms-191216-java-usf/rms-campus-service",
+    "rms-employee-service": "https://github.com/rms-191216-java-usf/rms-employee-service",
+    "rms-mail-service": "https://github.com/rms-191216-java-usf/rms-mail-service",
+    "rms-work-order-service": "https://github.com/rms-191216-java-usf/rms-work-order-service",
+    "rms-batch-service": "https://github.com/rms-191216-java-usf/rms-batch-service"
   }
 }
