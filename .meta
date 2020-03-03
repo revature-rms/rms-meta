@@ -8,6 +8,7 @@
     "rms-employee-service": "https://github.com/rms-191216-java-usf/rms-employee-service",
     "rms-mail-service": "https://github.com/rms-191216-java-usf/rms-mail-service",
     "rms-work-order-service": "https://github.com/rms-191216-java-usf/rms-work-order-service",
-    "rms-batch-service": "https://github.com/rms-191216-java-usf/rms-batch-service"
+    "rms-batch-service": "https://github.com/rms-191216-java-usf/rms-batch-service",
+    "rms-search-service": "https://github.com/rms-191216-java-usf/rms-search-service"
   }
 }
