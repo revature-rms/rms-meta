@@ -10,6 +10,7 @@
     "rms-work-order-service": "https://github.com/rms-191216-java-usf/rms-work-order-service",
     "rms-batch-service": "https://github.com/rms-191216-java-usf/rms-batch-service",
     "rms-search-service": "https://github.com/rms-191216-java-usf/rms-search-service",
-    "rms-configuration-repo": "https://github.com/rms-191216-java-usf/rms-configuration-repo"
+    "rms-configuration-repo": "https://github.com/rms-191216-java-usf/rms-configuration-repo",
+    "rms-auth-service": "https://github.com/revature-rms/rms-auth-service"
   }
 }
