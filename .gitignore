@@ -125,6 +125,7 @@ rms-ui/
 rms-auth-service/
 rms-config-service/
 rms-discovery-service/
+rms-documentation-service/
 rms-gateway-service/
 rms-campus-service/
 rms-employee-service/
