@@ -12,6 +12,7 @@
     "rms-batch-service": "https://github.com/revature-rms/rms-batch-service",
     "rms-search-service": "https://github.com/revature-rms/rms-search-service",
     "rms-configuration-repo": "https://github.com/revature-rms/rms-configuration-repo",
-    "rms-auth-service": "https://github.com/revature-rms/rms-auth-service"
+    "rms-auth-service": "https://github.com/revature-rms/rms-auth-service",
+    "rms-ng-ui": "https://github.com/revature-rms/rms-ng-ui"
   }
 }
