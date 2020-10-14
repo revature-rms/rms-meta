@@ -13,6 +13,7 @@
     "rms-search-service": "https://github.com/revature-rms/rms-search-service",
     "rms-configuration-repo": "https://github.com/revature-rms/rms-configuration-repo",
     "rms-auth-service": "https://github.com/revature-rms/rms-auth-service",
-    "rms-ng-ui": "https://github.com/revature-rms/rms-ng-ui"
+    "rms-ng-ui": "https://github.com/revature-rms/rms-ng-ui",
+    "rms-core": "https://github.com/revature-rms/rms-core"
   }
 }
